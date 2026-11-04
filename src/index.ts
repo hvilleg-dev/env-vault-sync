@@ -1,0 +1,1 @@
+export { EnvVaultSync } from './vault';
