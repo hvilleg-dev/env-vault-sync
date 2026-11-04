@@ -127,6 +127,15 @@ npm test -- --coverage
 
 [MIT](LICENSE) © [Harold Villegas](https://github.com/hvilleg-dev)
 
+## 📞 Contact & Connect
+
+- **GitHub:** [@hvilleg-dev](https://github.com/hvilleg-dev)
+- **LinkedIn:** [Harold Villegas](https://www.linkedin.com/in/harold-villegas/)
+- **Email:** [hvilleg@gmail.com](mailto:hvilleg@gmail.com)
+- **Portfolio:** https://github.com/hvilleg-dev
+
+Questions, feedback, or collaboration ideas? Reach out! ✨
+
 ---
 
-**Status:** Production-ready · **Test Coverage:** 80%+ · **Last Updated:** 2026-11-03
+**Status:** Production-ready · **Test Coverage:** 80%+ · **Last Updated:** 2026-11-04

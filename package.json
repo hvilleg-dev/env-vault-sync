@@ -17,8 +17,16 @@
     "aes-256-gcm",
     "vault"
   ],
-  "author": "Harold Villegas (hvilleg-dev)",
+  "author": "Harold Villegas (hvilleg-dev) <hvilleg@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hvilleg-dev/env-vault-sync.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hvilleg-dev/env-vault-sync/issues",
+    "email": "hvilleg@gmail.com"
+  },
   "scripts": {
     "test": "node tests/vault.test.js",
     "start": "node bin/env-vault-sync.js"
